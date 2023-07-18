@@ -1,3 +1,5 @@
+// Created by Jared Chinchilla on 07/18/2023: @chinchillajared
+
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 #include <WiFiClientSecure.h>
