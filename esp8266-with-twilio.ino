@@ -34,6 +34,8 @@ const char* w_name = "your_ssid";
 const char* w_pass  = "your_password";
 
 //Twilio contact details 
+//For SMS e.g., +1010101010
+//For Whatsapp e.g., Whatsapp:1010101010 
 String toPhonenumber = "to_phonenumber"; //If you want to use whatsapp, first, add Whatsapp: at the begining and dont enter the + sign followed by the phone number, eg: whatsapp:14155238886
 String fromPhonenumber = "from_phonenumber"; //If you want to use whatsapp, first, add Whatsapp: at the begining and dont enter the + sign followed by the phone number, eg: whatsapp:14155238886
 String message = "message";
