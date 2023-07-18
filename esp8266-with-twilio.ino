@@ -5,7 +5,7 @@
 #include <WiFiClientSecure.h>
 #include <base64.h>
 
-//https ceritfificate from Twilio server
+//https ceritfificate from Twilio server, Valid from 11/9/2006 to 11/9/2031.
 const char IRG_Root_X1 [] PROGMEM = R"CERT(
 -----BEGIN CERTIFICATE-----
 MIIDrzCCApegAwIBAgIQCDvgVpBCRrGhdWrJWZHHSjANBgkqhkiG9w0BAQUFADBh
